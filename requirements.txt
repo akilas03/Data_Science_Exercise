@@ -1,0 +1,7 @@
+Pandas
+Numpy
+pandas_profiling
+seaborn
+Datasist
+scikit-learn
+plot_metric
